@@ -47,3 +47,11 @@ body {
 	left:520px;
 	z-index: 10; 
 }
+.instructions {
+	float: right;
+	padding-right: 250px;
+	margin-top: 150px;
+	font-family: "Kaushan Script", sans-serif;
+	line-height: 50px;
+	text-align: center;
+}
